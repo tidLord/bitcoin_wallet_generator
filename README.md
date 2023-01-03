@@ -11,6 +11,6 @@
 
 ## สำหรับคนที่จะโหลดโค๊ดไปใช้หรือ compile ด้วยตัวเอง
 ```python
-pip install bitcoinaddress # สำหรับสร้างกระเป๋า
+pip install bitcoinaddress #สำหรับสร้างกระเป๋า
 pip install colorama #สำหรับสีตัวอักษรบนหน้า console
 ```
